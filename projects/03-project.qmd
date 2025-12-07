@@ -1,0 +1,22 @@
+---
+title: "Project 3"
+format: html
+---
+
+# The Modulatory Effects of Music Genre and Exposure Duration on Cognitive Focus (STATS 101B)
+
+## This research project investigated the impact of different music genres and listening durations on human attention^191919^.
+
+-   **Research Question:** What are the main and interactive effects of music genre (classical, country, dance, heavy metal) and listening duration (10, 20, 30 minutes) on attention? ^20^
+
+-   **Design:** A two-factor **ANOVA** design with blocking (Age Group and Gender) was used^21212121^. The response variable was the **Change in the number of misses** on an attention test (post minus pre-music listening)^22^.
+
+-   **Sample Size:** The study used a total of 216 participants, exceeding the G-Power estimated requirement of 159 participants for $80\%$ power and \$\\alpha=0.05\$^232323232323232323^.
+
+-   **ANOVA Results:** All main effects and the interaction effect were found to be **statistically significant** at \$\\alpha=0.05\$^24^:
+
+    1.  Music Type ($p=0.000$)
+    2.  Listening Duration ($p=0.013$)
+    3.  Music Type $\times$ Listening Duration Interaction ($p=0.010$)
+
+-   **Key Conclusion:** The results showed that Classical, Country, and Dance music were associated with **reduced attention misses** (improved focus), while **Heavy Metal** was associated with an **increase in misses** (diminished attention)^25^. This suggests that both genre and duration jointly influence attentional performance^26^.

@@ -1,0 +1,22 @@
+---
+title: "Project 2"
+format: html
+---
+
+# House Price Analysis
+
+## This project involved fitting and interpreting a linear regression model to predict residential house prices in Sindian District, New Taipei City, Taiwan.
+
+-   **Objective:** To model house price per unit area ($Y$) using six factors, including transaction date ($X1$), house age ($X2$), distance to the nearest MRT station ($X3$), number of convenience stores ($X4$), latitude ($X5$), and longitude ($X6$)^11111111^.
+
+-   **Methodology:** Initial scatter plot analysis revealed correlations (e.g., negative with $X2$ and $X3$, positive with $X4$ and $X5$)^12^. The Box-Cox procedure was used to determine the optimal transformation for the response variable^13^.
+
+-   **Transformation:** The optimal Box-Cox parameter was $\lambda \approx -0.0195$, leading to the selection of the **log transformation (**$\log Y$) for the response variable^14^.
+
+-   **Final Model:** Through variable selection (exhaustively searching subsets), the final model achieved an **Adjusted** $R^2$ of 0.6818.
+
+-   **Key Interpretations (Final Model):**
+
+    1.  **Distance to MRT (**$X3$): Had the strongest significant negative relationship (a 1-unit increase in distance causes a $\sim0.015\%$ decrease in house price)^16161616^.
+    2.  **House Age (**$X2$): Significant negative relationship (a 1-year increase causes a $\sim0.7\%$ decrease in price)^17171717^.
+    3.  **Latitude (**$X5$): Strong significant positive relationship (a 0.01-unit increase causes an $\sim8.2\%$ increase in price)^18181818^.

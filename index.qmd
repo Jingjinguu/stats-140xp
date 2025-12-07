@@ -1,11 +1,53 @@
 ---
-title: "Personal Website"
+title: "Jingjing yu"
+about:
+  template: trestles
+  image: picture.jpg
+  links:
+    - icon: github
+      text: Github
+      href: "https://github.com/Jingjinguu"
+    - text: Email
+      url: "mailto:jing1100@g.ucla.edu"
+    - text: CV
+      url: "Jingjing-Yu.pdf"
+    - icon: linkedin
+      text: LinkedIn
+      url: "https://www.linkedin.com/in/jingjing-yu6"
+
+
+toc: false
 ---
+## 🎓 Education
+University of California, Los Angeles \| Los Angeles, California 
 
-This is a Quarto website.
+Bachelor of Statistics and Data Science  \| August 2024 - Present 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+Diablo Valley College, CA \| Pleasant Hill, California 
+
+Associate of Art, Statistics  \| August 2022 - June 2024 
+
+
+## 💼 Experience
+Quant Signal \| Market Analysis Intern  \| Jun 2025 - Aug 2025 
+
+
+Role: Market Analysis Intern 
+
+
+Location: Los Angeles, CA 
+
+Project of Fires from Space: Australia \| Project Lead (Implied) \| June 2025 - Aug 2025 
+
+Role: Project Lead (Implied)
+
+
+Focus: Fire detection and geospatial analysis using NASA FIRMS data 
+
+DataFest 2025 (Commercial Site Selection Analysis) \| Analyst (Implied) \| Feb 2025 - March 2025 
+
+Role: Analyst (Implied)
+
+
+Focus: Commercial site selection analysis using 10,000+ leasing records

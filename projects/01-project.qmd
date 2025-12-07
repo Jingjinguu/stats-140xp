@@ -1,0 +1,18 @@
+---
+title: "Project 1"
+format: html
+---
+
+# Commercial Site Selection Analysis (DataFest 2025)
+
+### This project analyzed the structural shifts in the commercial office leasing market following the COVID-19 pandemic, focusing on changes in asset quality and location preferences^1^.
+
+-   **Research Question:** How did the COVID-19 pandemic change both the **quality** (Class A vs. Class O) and **location** (CBD vs. Suburbs) preferences of commercial office leases? ^2^
+
+-   **Methodology:** Cleaned and processed over 10,000 leasing records in R, applying time-series smoothing to track trends^33^. Spatial patterns and correlations between CBD and suburban markets were analyzed^4^.
+
+-   **Key Finding: Flight to Quality:** The share of major leases ($\ge10,000$ SF) in **Class A buildings rose to** $70\%+$ after COVID, indicating that companies prioritized higher-quality buildings^5^. The number of Class A leases showed a steady increase during the pandemic, while Class O remained flat or decreased^6666^.
+
+-   **Key Finding: Location Shift:** Suburban leasing spiked to $\sim60\%$ during the pandemic (2020-2021), up from the pre-2020 $\sim50/50$ split with the CBD^7777^. By 2024, the market gradually returned toward balance^8888^.
+
+-   **Recommendation:** Recommendations included focusing on premium Class A spaces, blending suburban and downtown locations for hybrid workforces, and renovating lower-quality (Class O) assets to stay competitive

@@ -1,0 +1,67 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Jingjing Yu
+date: last-modified
+phone: 510-561-3850
+email: jing1100@g.ucla.edu
+fontsize: 11pt
+# Comment out or remove these lines for now:
+# address: Pleasant Hill, CA
+# github: www.linkedin.com/in/jingjing-yu6
+# nocite: '@*' 
+---
+
+
+
+## Education
+
+**University of California, Los Angeles** (Los Angeles, California)
+* Bachelor of Statistics and Data Science (August 2024-Present)
+
+**Diablo Valley College, CA** (Pleasant Hill, California)
+* Associate of Art, Statistics (August 2022-June 2024)
+
+---
+
+## Relevant Skills
+
+* **Technical Skills**: Proficient in Google Workspace (Docs, Sheets), Microsoft Office Suite (Word, Excel), Tableau, R (Shiny, ggplot2)
+* **Statistics**: Probability, Distribution, Statistical Inference, Chi-Square Tests, Bootstrap, Hypothesis Testing, Bayes Theorem, Markov Chains, ANOVA
+* **Machine Learning**: Linear Regression, Logistic Regression, Random Forest, Boosting, Clustering, Optimization, Model Evaluation, Time Series
+
+---
+
+## Academic Projects
+
+### Quant Signal (Los Angeles, CA)
+
+**Market Analysis Intern** | Jun 2025 - Aug 2025
+
+* Used R for data cleaning, transformation, and visualization, applying statistical methods such as correlation analysis, anomaly detection, and time-series summarization to extract insights from AI-generated financial reports.
+
+* Authored daily market updates for 2,500+ users by synthesizing R visualizations with real-time financial news, highlighting emerging patterns and potential market movements.
+
+* Monitored live data dashboards, implemented threshold-based and statistical anomaly detection, and issued timely alerts that helped the community respond quickly to unusual market activity.
+
+### Project of Fires from Space: Australia | June 2025- Aug 2025
+
+* Collected and cleaned $\sim45,000$ NASA FIRMS VIIRS/MODIS fire detections; standardized coordinates/timestamps and removed $\sim12\%$ low-confidence pixels.
+
+* Built daily fire-count time-series and regional bar charts revealing two major activity peaks (Aug 17-20 and Sep 12-15) with $>3,000$ detections per day.
+
+* Generated kernel-density heat maps showing highest concentration in eastern New South Wales and northern Queensland; quantified hotspots with **Getis-Ord** $G_i^*$ statistics.
+
+* Integrated results into an interactive CARTO map and 10-second animated timeline highlighting temporal surges and spatial clusters across Australia.
+
+### DataFest 2025 (Commercial Site Selection Analysis) | Feb 2025-March 2025
+
+* Cleaned and processed 10,000+ leasing records in R, applied time-series smoothing to track trends, revealing a steady increase in Class A leases during the pandemic.
+
+* Analyzed spatial patterns and correlations between CBD and suburban markets; found suburban leasing peaked at $\sim60\%$ in 2020-2021 and returned to $\sim50/50$ by 2024.
+
+* Ranked submarkets using **regression and scoring metrics**, producing actionable recommendations for hybrid-location strategies and Class O asset repositioning.
+
+
+---
